@@ -1,0 +1,33 @@
+body {
+    background-image:url(https://cdn.novelupdates.com/images/2019/08/DD-WN-Cover.png);
+    background-size:100vw;
+    height: 100vh;
+  }
+  
+  .menu {
+    
+    background-color: withe
+     
+  }
+  a{
+    color: teal;
+  }
+  
+   .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    
+   list-style:none;
+  }
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    text-aling: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
